@@ -1,20 +1,4 @@
-// const axios = require('axios');
 
-// const apiKey = 'sk_test_2JnCcY27EDc5Fylf45iDIE10YukLWepDlo1e2hD21v'; // Replace with your Clerk API key
-
-// const url = 'https://api.clerk.com/v1/users?limit=10&offset=0&order_by=-created_at';
-
-// axios.get(url, {
-//   headers: {
-//     'Authorization': `Bearer ${apiKey}`
-//   }
-// })
-//   .then(response => {
-//     console.log(response.data);
-//   })
-//   .catch(error => {
-//     console.error('Error fetching users:', error);
-//   });
 
 
 
